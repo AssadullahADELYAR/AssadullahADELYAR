@@ -19,6 +19,16 @@
 
 <h2 align="center">-------- Recent Projects --------</h2>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/AssadullahADELYAR/fm-coming-soon/blob/main/screenshot.png" alt="css3" width="360" height="280"/> </a>
-</p>
+<div align="left"> 
+  &nbsp&nbsp&nbsp&nbsp&nbsp
+  <span padding= "36px">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img  src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/huddle-landing-page.png" alt="Landing-page-for-huddle" /> </a>
+  </span>
+  &nbsp&nbsp&nbsp&nbsp&nbsp
+  <span padding= "36px">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/landing-page-001.png" alt="Landing-page" /> </a>
+  </span>
+</div>
+
