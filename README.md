@@ -20,13 +20,13 @@
 <h2 align="center">-------- Recent Projects --------</h2>
 
 <div align="left"> 
-  &nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp
   <span padding= "36px">
     <a href="https://github.com/AssadullahADELYAR/fm-clipboard-landing-page" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/landing-page-001.png" alt="Landing-page" /> </a>
   </span>
 
-    &nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
   <span padding= "36px">
     <a href="https://github.com/AssadullahADELYAR/fm-huddle-landing-page" target="_blank" rel="noreferrer"> 
   <img  src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/huddle-landing-page.png" alt="Landing-page-for-huddle" /> </a>
@@ -34,7 +34,7 @@
 </div>
 
 <div align="left"> 
-  &nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp &nbsp &nbsp &nbsp &nbsp
   <span padding= "36px">
     <a href="https://github.com/AssadullahADELYAR/fm-coming-soon" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/coming-soon.png" alt="Coming-soon" /> </a>
