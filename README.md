@@ -21,6 +21,25 @@
 
 <div align="left"> 
   
+  <span>
+    <a href="https://github.com/AssadullahADELYAR/techup" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/techUp.png" width="450" alt="Landing-page-techup" /> </a>
+  </span>
+
+ 
+  <span>
+    <a href="https://github.com/AssadullahADELYAR/TastTreats" target="_blank" rel="noreferrer"> 
+  <img  src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/TastyTreat.png" width="450" alt="Landing-page-tastytreat" /> </a>
+  </span>
+
+  <span>
+    <a href="https://github.com/AssadullahADELYAR/PStudio-v1" target="_blank" rel="noreferrer"> 
+    <img  src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/PStudio.png" alt="Landing-page-Pstudio" /> </a>
+  </span>
+</div>
+
+<div align="left"> 
+  
   <span padding= "36px">
     <a href="https://github.com/AssadullahADELYAR/fm-clipboard-landing-page" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/AssadullahADELYAR/AssadullahADELYAR/blob/main/landing-page-001.png" alt="Landing-page" /> </a>
